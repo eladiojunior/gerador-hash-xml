@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mensagemSIB xmlns:ansSIB="http://www.ans.gov.br/padroes/sib/schemas"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ans.gov.br/padroes/sib/schemas http://www.ans.gov.br/padroes/sib/schemas/sib.xsd">
+  <cabecalho>
+    <identificacaoTransacao>
+      <tipoTransacao>Atualizacao SIB</tipoTransacao>
+      <sequencialTransacao>1</sequencialTransacao>
+      <dataHoraRegistroTransacao>2020-01-01T00:00:01</dataHoraRegistroTransacao>
+    </identificacaoTransacao>
+    <origem>
+      <registroANS>000000</registroANS>
+    </origem>
+    <destino>
+      <cnpj>00000000000000</cnpj>
+    </destino>
+    <versaoPadrao>1.1</versaoPadrao>
+    <identificacaoSoftwareGerador>
+      <nomeAplicativo>Teste Gerador de HASH</nomeAplicativo>
+      <versaoAplicativo>1.0.0</versaoAplicativo>
+      <fabricanteAplicativo>Eladio Lima Magalhães Junior</fabricanteAplicativo>
+    </identificacaoSoftwareGerador>
+  </cabecalho>
+  <mensagem>
+    <operadoraParaANS>
+      <beneficiarios>
+        <retificacao>
+          <cco>000000000000</cco>
+          <identificacao></identificacao>
+          <endereco></endereco>
+          <vinculo></vinculo>
+        </retificacao>
+      </beneficiarios>
+    </operadoraParaANS>
+  </mensagem>
+  <epilogo>
+    <hash>E2D0B06A6D002A66769A3F634AF0ED2D</hash>
+  </epilogo>
+</mensagemSIB>
