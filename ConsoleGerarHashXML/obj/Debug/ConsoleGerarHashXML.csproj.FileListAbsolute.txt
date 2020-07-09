@@ -1,8 +1,0 @@
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\bin\Debug\exemplo.xml
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\bin\Debug\ConsoleGerarHashXML.exe.config
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\bin\Debug\ConsoleGerarHashXML.exe
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\bin\Debug\ConsoleGerarHashXML.pdb
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\obj\Debug\ConsoleGerarHashXML.csprojAssemblyReference.cache
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\obj\Debug\ConsoleGerarHashXML.csproj.CoreCompileInputs.cache
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\obj\Debug\ConsoleGerarHashXML.exe
-D:\projetos-git\gerador-hash-xml\ConsoleGerarHashXML\obj\Debug\ConsoleGerarHashXML.pdb
